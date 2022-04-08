@@ -22,4 +22,4 @@ Use `cd webdpfrontend` to change your current working directory to the webdpfron
 run the command `npm start`. This will download the node_modules folder and will install all the necessary dependencies required.
 In another terminal use  `cd webdpbackend` to change your current directory to the webdpbackend directory 
 and run the command `node index.js`. This will start the database (backend part)  over to the mongodb atlas.
-Then switch to webdpfrontend terminal and run `npm start` and boom you will be redirected to http://localhost:3000 which is the login page of our website.
+Then switch to webdpfrontend terminal and run `npm start` and boom you will be redirected to http://localhost:3000 which would be the login page of our website.
