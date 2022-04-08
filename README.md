@@ -18,7 +18,7 @@ Md Faizan - lit2021026@iiitl.ac.in
 To start the website, first clone the repo in your system.
 Then open the folder in any code editor of your choice.
 Use split terminal or open two terminal window.
-Use `cd webdpfrontend` to change your current directory to the webdpfrontend directory.
+Use `cd webdpfrontend` to change your current working directory to the webdpfrontend directory.
 run the command `npm start`. This will download the node_modules folder and will install all the necessary dependcies required.
 In another terminal use  `cd webdpbackend` to change your current directory to the webdpbackend directory 
 and run the command `node index.js`. This will start the database (backend part)  over to the mongodb atlas.
