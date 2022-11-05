@@ -17,7 +17,7 @@ Md Faizan - lit2021026@iiitl.ac.in
 
 To start the website, first clone the repo in your system. Then open the folder in any code editor of your choice.
 
-Use split terminal or open two terminal window.
+Use split terminal or open two terminal windows.
 
 Use `cd webdpfrontend` to change your current working directory to the webdpfrontend directory in first terminal.
 
