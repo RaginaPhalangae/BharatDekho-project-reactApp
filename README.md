@@ -1,11 +1,15 @@
 # BharatDekho-project-reactApp
 1st web development project of 1st semester. Our team members :
 
-Avinash Krishna - lit2021041@iiitl.ac.in
+Md Kaif Ansari - lit2021022@iiitl.ac.in
 
 Anushka Singh - lit2021043@iiitl.ac.in
 
 Vibhor Gupta - lit2021014@iiitl.ac.in
+
+
+Avinash Krishna - lit2021041@iiitl.ac.in
+
 
 Ayushi Gautam - lit2021053@iiitl.ac.in
 
