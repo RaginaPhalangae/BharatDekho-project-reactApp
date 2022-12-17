@@ -7,9 +7,13 @@ Anushka Singh - lit2021043@iiitl.ac.in
 
 Vibhor Gupta - lit2021014@iiitl.ac.in
 
+
 Avinash Krishna - lit2021041@iiitl.ac.in
 
+
 Ayushi Gautam - lit2021053@iiitl.ac.in
+
+Md Kaif Ansari - lit2021022@iiitl.ac.in
 
 Md Faizan - lit2021026@iiitl.ac.in
 
@@ -17,7 +21,7 @@ Md Faizan - lit2021026@iiitl.ac.in
 
 To start the website, first clone the repo in your system. Then open the folder in any code editor of your choice.
 
-Use split terminal or open two terminal window.
+Use split terminal or open two terminal windows.
 
 Use `cd webdpfrontend` to change your current working directory to the webdpfrontend directory in first terminal.
 
