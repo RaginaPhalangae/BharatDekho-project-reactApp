@@ -7,9 +7,9 @@ Anushka Singh - lit2021043@iiitl.ac.in
 
 Vibhor Gupta - lit2021014@iiitl.ac.in
 
-Md Kaif Ansari - lit2021022@iiitl.ac.in
-
 Ayushi Gautam - lit2021053@iiitl.ac.in
+
+Md Kaif Ansari - lit2021022@iiitl.ac.in
 
 Md Faizan - lit2021026@iiitl.ac.in
 
